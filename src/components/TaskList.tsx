@@ -38,7 +38,6 @@ export function TaskList() {
   }
 
   function handleToggleTaskCompletion(id: number) {
-    console.log(">>>> Toggle complete", tasks);
     let tasklist = tasks;
     for (let i = 0; i < tasklist.length; i++) {
       if (id === tasklist[i].id) {
@@ -50,8 +49,6 @@ export function TaskList() {
   }
 
   function handleRemoveTask(id: number) {
-    console.log(">>>> Remove item Id ", id, tasks);
-
     let tasklist = tasks;
     for (let i = 0; i < tasklist.length; i++) {
       if (tasklist[i].id === id) {
