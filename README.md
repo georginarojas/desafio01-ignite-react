@@ -7,7 +7,7 @@
     <a href="#-tests-specifications">Tests Specifications</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-![Demo todo](https://gifs.com/gif/todo-p8Gv06)
+![Demo todo](https://j.gifs.com/p8Gv06.gif)
 
 ## Description
 For this first challenge, was implemented functionalities for simple toDo list app, where the user can create, delete and complet task. Also   was executed a functional test in app, checking if the proposed requirements was satisfied.  
